@@ -109,6 +109,7 @@ author:
   bio              : "초보 게임 개발자"
   location         : "Republic of Korea"
   email            :
+  avatar           : "/assets/images/Blog_profile.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
