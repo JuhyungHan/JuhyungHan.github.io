@@ -169,9 +169,8 @@ td > code {
   padding-bottom: 0.1rem;
   font-size: 0.8em;
   background: $code-background-color;
-  color: #ddab10;
   border-radius: $border-radius;
-
+  color: #ddab10;
   &:before,
   &:after {
     letter-spacing: -0.2em;
